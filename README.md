@@ -5,3 +5,5 @@ When LimaCharlie detects malicious activity, it triggers a Tines workflow that e
 ![Alt text](LimaCharlie/LimaCharlie_sensor_overview.png)
 # Tines
 ![Alt text](Tines/Tines_Story.png)
+# Slack Alerts
+![Alt text](Alerts/Slack_alerts.png)
